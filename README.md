@@ -8,13 +8,17 @@ ALSS is the first cryptography algorithm I developed using Python. Although I am
 
 ![Kriptografi Akışı](Images/GenKey.png)
 
-## Generate Key
+## Main
 
 ![Kriptografi Akışı](Images/MainBlok.png)
 
 ## ALSS Example
 
 ![Kriptografi Akışı](Images/Example.png)
+
+## Watch This
+
+![Kriptografi Akışı](Images/Video.gif)
 
 *This is just one example of how ALSS works. The order of these layers varies depending on each prefix.*
 
